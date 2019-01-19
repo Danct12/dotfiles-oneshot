@@ -1,0 +1,7 @@
+rofi.modi: window,run,ssh,drun
+# MAH THEME RICING
+rofi.color-window: #27031E, #FF921E
+rofi.color-normal: #27031E, #888888, #27031E, #661140, #ffffff
+rofi.bw: 3
+rofi.font:          TerminessTTF Nerd Font 12
+
